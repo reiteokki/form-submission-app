@@ -1,0 +1,1 @@
+Please follow each README.md available on respective backend and frontend (mini) folder
